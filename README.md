@@ -1,5 +1,3 @@
-Sure! Here’s your README.md in proper Markdown format, clean and ready to use:
-
 # KURVE – KI-unterstützte Recherche und Verarbeitung von Stellungnahmen
 
 This repository contains our solution for the **KURVE Hackathon Project**, developed in collaboration with **THWS Master AI Würzburg**.  
